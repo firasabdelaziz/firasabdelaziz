@@ -1,15 +1,14 @@
-<h1 align="left">Hi there! 👋 I'm Firas </h1>
-<h3 align="left">Passionate Software Developer from Tunisia</h3>
+<h1 align="center">Hi there! 👋 I'm Firas</h1>
 
 <p align="center">
   <img align="center" alt="Coding" width="60%" src="https://giffiles.alphacoders.com/199/199475.gif">
 </p>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=firasabdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="firasabdelaziz" />
 </p>
 
-<p align="left">🔭 Passionate Software Developer Currently refining my expertise in microservices architecture and mobile development</p>
+<p align="left">🔭 Passionate Software Developer currently refining my expertise in microservices architecture and mobile development</p>
 
 <p align="left">🌱 Currently learning software architecture engineering</p>
 
