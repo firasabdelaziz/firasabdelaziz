@@ -15,8 +15,8 @@
 - 👯 Looking to collaborate on **innovative projects that leverage my full-stack development skills**
 
 - 🤝 Seeking help with **staying updated on the latest industry trends and best practices**
-
-<p align="left">📫 How to reach me: <a href="mailto:firasabdelaziz123@gmail.com">firasabdelaziz123@gmail.com</a></p>
+  
+- 📫 How to reach me: <a href="mailto:firasabdelaziz123@gmail.com">firasabdelaziz123@gmail.com</a>
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
