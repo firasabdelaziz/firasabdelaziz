@@ -1,4 +1,3 @@
-# Hi there! 👋 I'm Firas ABDELAZIZ
 
 <p align="center">
   <img align="center" alt="Coding" width="60%" src="https://giffiles.alphacoders.com/199/199475.gif">
@@ -8,7 +7,7 @@
 
 🔭 **Technical Lead**, passionate about **Microservices, Event-Driven Architecture, and Full-Stack Development**.
 
-💡 Specialized in **React.js, Next.js, React Native, Laravel, Spring Boot, and RabbitMQ**.
+💡 Specialized in **React.js, Next.js, React Native, Express, Laravel, Spring Boot, and RabbitMQ**.
 
 🎯 I thrive on solving complex challenges by transforming innovative ideas into scalable, real-world solutions. My mission is to blend technical excellence with genuine care for team collaboration, ensuring that every project is both robust and human-centric.
 
@@ -22,7 +21,6 @@
 
 ### **Frontend & Mobile**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -32,10 +30,12 @@
 
 ### **Backend & Databases**
 <p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/laravel/laravel-line-wordmark.svg" alt="laravel" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </p>
 
@@ -43,7 +43,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Kafka.svg" alt="kafka" width="40" height="40"/>
+  <img src="https://th.bing.com/th/id/OIP.Q1zsjjHJND4jsQ6hs_R_wQHaHa?rs=1&pid=ImgDetMain" alt="kafka" width="40" height="40"/>
 </p>
 
 ## 💡 Soft Skills & Leadership
@@ -59,7 +59,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Firas%20ABDELAZIZ-blue?style=flat&logo=linkedin)](https://linkedin.com/in/firasabdelaziz)
 [![Twitter](https://img.shields.io/badge/Twitter-@abdelazizfiras-blue?style=flat&logo=twitter)](https://twitter.com/abdelazizfiras)
 
-## 📊 GitHub Stats
+## 📊 My GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=firasabdelaziz&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=firasabdelaziz&layout=compact&theme=tokyonight)
+<p align="center"> <!-- GitHub Streak Stats --> <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=firasabdelaziz&theme=tokyonight" alt="GitHub Streak Stats" /> </a> </p> <p align="center"> <!-- GitHub Trophies --> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=firasabdelaziz&theme=tokyonight" alt="GitHub Profile Trophies" /> </a> </p> <p align="center"> <!-- GitHub Contributions Chart --> <img src="https://ghchart.rshah.org/firasabdelaziz" alt="GitHub Contributions" /> </p>
