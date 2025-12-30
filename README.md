@@ -61,4 +61,22 @@
 
 ## 📊 My GitHub Activity
 
-<p align="center"> <!-- GitHub Streak Stats --> <a href="https://git.io/streak-stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=firasabdelaziz&theme=tokyonight" alt="GitHub Streak Stats" /> </a> </p> <p align="center"> <!-- GitHub Trophies --> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=firasabdelaziz&theme=tokyonight" alt="GitHub Profile Trophies" /> </a> </p> <p align="center"> <!-- GitHub Contributions Chart --> <img src="https://ghchart.rshah.org/firasabdelaziz" alt="GitHub Contributions" /> </p>
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=firasabdelaziz&theme=tokyonight" 
+      alt="GitHub Streak Stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=firasabdelaziz&theme=tokyonight" 
+      alt="GitHub Profile Trophies"
+    />
+  </a>
+</p>
